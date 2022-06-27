@@ -1,4 +1,4 @@
-/*Cor de fundo*/
+/*Foto de fundo*/
 #body{
-    background-color: darkgrey;
+    background-image: url("funj.jpg");
 }
